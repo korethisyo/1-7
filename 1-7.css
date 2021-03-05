@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  background-image: url(img/mv.jpg);
+  height: 400px;
+  background-position: bottom;
+  background-size: cover;
+  margin-bottom: 20px;
+}
+
+.main-visual-heading {
+  color: darkgray;
+  padding: 20px 0 0 20px;
+}
+
+.item-box {
+  margin-bottom: 50px;
+}
+
+.item {
+  width: 840px;
+  margin: 0 auto;
+  padding: 30px 0;
+  font-size: 12px;
+  color: darkgray;
+  border-bottom: 2px solid darkgray;
+}
